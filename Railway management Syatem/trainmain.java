@@ -49,7 +49,7 @@ public class trainmain {
                     break;
             }
         } while (s < 4);
-
+        sc.close();
     }
 
   

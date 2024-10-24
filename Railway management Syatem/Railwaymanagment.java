@@ -2,7 +2,6 @@
 //a program to demonstrate runtime polymorphism using method overriding and
 // dynamic method dispatch, 
 // applied to railway reservation system.
-import java.util.*;
 
 class Railwaymanagment extends Train {
     
